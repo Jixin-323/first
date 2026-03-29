@@ -152,6 +152,7 @@ RM-Operator-Client/
 <img width="473" height="517" alt="image" src="https://github.com/user-attachments/assets/6d001884-b943-40aa-aacf-0de017e64bf9" />
 <img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/5f8534b5-a059-4038-8857-8ee71e0da4b6" />
 <img width="1923" height="1303" alt="image" src="https://github.com/user-attachments/assets/195713fc-3b51-4eba-8a6a-942d08346b93" />
+<img width="1921" height="1123" alt="image" src="https://github.com/user-attachments/assets/413c86d0-6f45-40c2-a111-0eeb35c9691a" />
 <img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/96402189-ff14-4aa4-ab8c-e2c2a421edf1" />
 
 
